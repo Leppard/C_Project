@@ -1,0 +1,80 @@
+﻿生成启动时间为 2013/1/11 20:58:33。
+     1>项目“E:\VS2010\Visual Studio 2010 Premium (x86) - DVD (Chinese-Simplified)\data\1252964\1252964\1252964.vcxproj”在节点 2 上(build 个目标)。
+     1>PrepareForBuild:
+         正在创建目录“E:\VS2010\Visual Studio 2010 Premium (x86) - DVD (Chinese-Simplified)\data\1252964\Release\”。
+       InitializeBuildStatus:
+         正在创建“Release\1252964.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         e:\VS2010\Visual Studio 2010 Premium (x86) - DVD (Chinese-Simplified)\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt 1252964.cpp "保存.cpp" "文本链表.cpp" "删除字符.cpp" "帮助信息.cpp" "打开文件.cpp" "替换字符.cpp" "替换链表.cpp" "查询字符.cpp"
+         1252964.cpp
+     1>1252964.cpp(12): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\VS2010\Visual Studio 2010 Premium (x86) - DVD (Chinese-Simplified)\VC\include\stdio.h(304) : 参见“scanf”的声明
+     1>1252964.cpp(26): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\VS2010\Visual Studio 2010 Premium (x86) - DVD (Chinese-Simplified)\VC\include\stdio.h(304) : 参见“scanf”的声明
+         保存.cpp
+     1>保存.cpp(11): warning C4091: “extern ”: 没有声明变量时忽略“txt”的左侧
+     1>保存.cpp(16): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\VS2010\Visual Studio 2010 Premium (x86) - DVD (Chinese-Simplified)\VC\include\stdio.h(304) : 参见“scanf”的声明
+     1>保存.cpp(17): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\VS2010\Visual Studio 2010 Premium (x86) - DVD (Chinese-Simplified)\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>保存.cpp(20): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\VS2010\Visual Studio 2010 Premium (x86) - DVD (Chinese-Simplified)\VC\include\stdio.h(304) : 参见“scanf”的声明
+         文本链表.cpp
+     1>文本链表.cpp(18): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\VS2010\Visual Studio 2010 Premium (x86) - DVD (Chinese-Simplified)\VC\include\stdio.h(234) : 参见“fopen”的声明
+         删除字符.cpp
+     1>删除字符.cpp(11): warning C4091: “extern ”: 没有声明变量时忽略“txt”的左侧
+     1>删除字符.cpp(18): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\VS2010\Visual Studio 2010 Premium (x86) - DVD (Chinese-Simplified)\VC\include\stdio.h(304) : 参见“scanf”的声明
+     1>删除字符.cpp(57): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\VS2010\Visual Studio 2010 Premium (x86) - DVD (Chinese-Simplified)\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>删除字符.cpp(58): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\VS2010\Visual Studio 2010 Premium (x86) - DVD (Chinese-Simplified)\VC\include\stdio.h(234) : 参见“fopen”的声明
+         帮助信息.cpp
+         打开文件.cpp
+     1>打开文件.cpp(6): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\VS2010\Visual Studio 2010 Premium (x86) - DVD (Chinese-Simplified)\VC\include\stdio.h(304) : 参见“scanf”的声明
+     1>打开文件.cpp(8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\VS2010\Visual Studio 2010 Premium (x86) - DVD (Chinese-Simplified)\VC\include\stdio.h(234) : 参见“fopen”的声明
+         替换字符.cpp
+     1>替换字符.cpp(12): warning C4091: “extern ”: 没有声明变量时忽略“txt”的左侧
+     1>替换字符.cpp(23): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\VS2010\Visual Studio 2010 Premium (x86) - DVD (Chinese-Simplified)\VC\include\stdio.h(304) : 参见“scanf”的声明
+     1>替换字符.cpp(63): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\VS2010\Visual Studio 2010 Premium (x86) - DVD (Chinese-Simplified)\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>替换字符.cpp(64): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\VS2010\Visual Studio 2010 Premium (x86) - DVD (Chinese-Simplified)\VC\include\stdio.h(234) : 参见“fopen”的声明
+         替换链表.cpp
+         查询字符.cpp
+     1>查询字符.cpp(11): warning C4091: “extern ”: 没有声明变量时忽略“txt”的左侧
+     1>查询字符.cpp(18): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\VS2010\Visual Studio 2010 Premium (x86) - DVD (Chinese-Simplified)\VC\include\stdio.h(304) : 参见“scanf”的声明
+     1>查询字符.cpp(45): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\VS2010\Visual Studio 2010 Premium (x86) - DVD (Chinese-Simplified)\VC\include\stdio.h(234) : 参见“fopen”的声明
+     1>查询字符.cpp(46): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\VS2010\Visual Studio 2010 Premium (x86) - DVD (Chinese-Simplified)\VC\include\stdio.h(234) : 参见“fopen”的声明
+       Link:
+         e:\VS2010\Visual Studio 2010 Premium (x86) - DVD (Chinese-Simplified)\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\VS2010\Visual Studio 2010 Premium (x86) - DVD (Chinese-Simplified)\data\1252964\Release\1252964.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\1252964.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\VS2010\Visual Studio 2010 Premium (x86) - DVD (Chinese-Simplified)\data\1252964\Release\1252964.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\VS2010\Visual Studio 2010 Premium (x86) - DVD (Chinese-Simplified)\data\1252964\Release\1252964.lib" /MACHINE:X86 Release\1252964.obj
+         "Release\保存.obj"
+         "Release\文本链表.obj"
+         "Release\删除字符.obj"
+         "Release\帮助信息.obj"
+         "Release\打开文件.obj"
+         "Release\替换字符.obj"
+         "Release\替换链表.obj"
+         "Release\查询字符.obj"
+         正在生成代码
+     1>e:\vs2010\visual studio 2010 premium (x86) - dvd (chinese-simplified)\data\1252964\1252964\替换字符.cpp(76): warning C4715: “repl”: 不是所有的控件路径都返回值
+     1>e:\vs2010\visual studio 2010 premium (x86) - dvd (chinese-simplified)\data\1252964\1252964\删除字符.cpp(70): warning C4715: “dele”: 不是所有的控件路径都返回值
+         已完成代码的生成
+         1252964.vcxproj -> E:\VS2010\Visual Studio 2010 Premium (x86) - DVD (Chinese-Simplified)\data\1252964\Release\1252964.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\VS2010\Visual Studio 2010 Premium (x86) - DVD (Chinese-Simplified)\data\1252964\Release\1252964.exe;#1" /manifest Release\1252964.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Release\1252964.unsuccessfulbuild”。
+         正在对“Release\1252964.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\VS2010\Visual Studio 2010 Premium (x86) - DVD (Chinese-Simplified)\data\1252964\1252964\1252964.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.67
